@@ -1,2 +1,2 @@
 # Code-Algorithms
-Leetcode Solutions quick look
+Leetcode Solutions or Algorithms quick look
